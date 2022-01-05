@@ -6,4 +6,6 @@
 - ⚡ Fun fact: Psycho was the first movie to show a toilet flushing.✨
 
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://www.youtube.com/watch?v=ECuqb5Tv9qI" />][youtube]
+
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
