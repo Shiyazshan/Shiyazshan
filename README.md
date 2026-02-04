@@ -64,7 +64,7 @@
 
 - Portfolio: [https://portfolio-self-psi-95.vercel.app/]
 - LinkedIn: [https://www.linkedin.com/in/mohammed-shiyas/]
-- Mail: mailto:shiiyazshan555@gmail.com
+- Mail: [mailto:shiiyazshan555@gmail.com]
 
 ---
 
