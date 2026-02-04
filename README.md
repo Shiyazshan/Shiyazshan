@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Shiyaz 👋</h1>
 <p align="center">
-  Frontend Developer | React Specialist | UI Craftsman  
+  Full Stack Developer | React Specialist | UI Craftsman  
 </p>
 
 <p align="center">
@@ -11,9 +11,9 @@
 
 ## 🧠 About Me
 
-- 🔭 Currently working on: **Next.js + Tailwind UI projects**
+- 🔭 Currently working on: **Node.Js + MongoDB**
 - 🌱 Learning: **React Native**, **Design Systems**
-- 🛠️ Stack: `React.js`, `Next.js`, `Tailwind CSS`, `JavaScript`, `TypeScript`
+- 🛠️ Stack: `React.js`, `Next.js`, `Tailwind CSS`, `JavaScript`, `TypeScript`,`Node.Js`
 - ⚙️ Dev Tools: VS Code, Git, Postman, Chrome DevTools
 - 💬 Ask me about **frontend architecture, DX, component libraries**
 - 🧪 TDD Fan: using `Vitest`, `React Testing Library`, `MSW`
@@ -62,10 +62,9 @@
 
 ## 📬 Reach Me
 
-- Portfolio: [shiyaz.dev](https://your-portfolio-link)
-- LinkedIn: [linkedin.com/in/shiyaz](https://linkedin.com/in/shiyaz)
-- Twitter: [@shiyazjs](https://twitter.com/shiyazjs)
-- Mail: [shiyaz@example.com](mailto:shiyaz@example.com)
+- Portfolio: [https://portfolio-self-psi-95.vercel.app/]
+- LinkedIn: [https://www.linkedin.com/in/mohammed-shiyas/]
+- Mail: mailto:shiiyazshan555@gmail.com
 
 ---
 
